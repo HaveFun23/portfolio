@@ -1,0 +1,26 @@
+@media (max-width: 620px) {
+  .logo_container {
+    margin-right: unset;
+  }
+  span {
+    font-size: 40px;
+  }
+  .AboutInner h1 {
+    font-size: 30px;
+  }
+  .AboutInner {
+    padding-top: 40px;
+  }
+  .AboutInner button {
+    margin-bottom: 40px;
+  }
+  .theme_changer {
+    order: 3;
+  }
+}
+@media (max-width: 740px) {
+  .header_inner {
+    justify-content: left;
+    padding: 20px 30px 0 30px;
+  }
+}
